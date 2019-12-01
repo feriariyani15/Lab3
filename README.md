@@ -4,6 +4,8 @@ penjelasan latihan 1
 - dengan menggunakan fungsi random. yakni,program akan menampilkan angka dibawah 0.5 secara acak
 - ketika anda sudah memberikan input nilai, maka akan langsung muncul data nilai random
 Berikut hasil screenshot :
+![](screenshoot/ss1.jpg)
+
 
 
 Penjelasan Latihan 2
@@ -12,6 +14,7 @@ Penjelasan Latihan 2
 - program akan mencari bilangan terbesar dari beberapa bilangan yang anda inputkan
 - lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input.
 Berikut hasil screenshot :
+![](screenshoot/ss2.jpg)
 
 
 Penjelasan Program 1 :
@@ -25,5 +28,6 @@ Penjelasan Program 1 :
 -program akan menjumlahkan semua keuntungan yang didapat
 -maka akan ditampilkan total laba yang didapat
 Berikut hasil screeshot :
+![](screenshoot/program1ss.jpg)
 
 
